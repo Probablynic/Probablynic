@@ -1,16 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%"> 
-<!-- Container to position cat in top-right -->
-<div style="position: relative; width: 100%; height: 200px;">
-
-  <!-- Cat GIF: top-right corner -->
-  <img src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" alt="cat" 
-       style="position: center"/>
-
-  <!-- Centered Badge -->
-  <p style="text-align: center;">
-    <img src="https://img.shields.io/badge/Hi,%20I'm%20Nic-black?style=for-the-badge" alt="Hi there!, I'm Nic">
-  </p>
-
+<p align='center'><img src="https://img.shields.io/badge/Hi,%20I'm%20Nic-black?style=for-the-badge" alt="Hi there!, I'm Nic"></p>
 </div>
 <h2 align="left">Tech Stack:</h2>
 <p align='center'>
