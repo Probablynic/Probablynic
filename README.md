@@ -1,10 +1,6 @@
 
 <!-- Social Icons -->
-<div align="left" style="display: flex; gap: 10px; align-items: center;">
-
-
-<!-- Right-side GIF -->
-<img align="left" height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
+<div align="left" style="display: flex; gap: 10px; align-items: center; height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif"">
 
   <!-- Bluesky -->
   <a href="https://bsky.app/profile/probablynic.bsky.social" target="_blank">
