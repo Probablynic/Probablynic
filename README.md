@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" alt='javascript'>
     <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" alt='python'>
     <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma" alt='figma'>
-    <img src="https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=canva" alt='canva'></p>
-</div>
+    <img src="https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=canva" alt='canva'>
+    <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php" alt='php'>
+</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%"> 
