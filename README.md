@@ -8,7 +8,10 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  
+    <!-- Instagram Logo (Clickable) -->
+  <a href="https://instagram.com/probablynic" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="instagram logo" />
+  </a>
 
 ###
 
