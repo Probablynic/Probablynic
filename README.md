@@ -8,34 +8,42 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/probablynic.bsky.social)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/probablynic_)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nic.125414)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/probablynic)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niecos-apostol-503a9a367/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/probablynic_)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:n.apostol.552403@umindanao.edu.ph)
-
----
-
-## 💻 Tech Stack
-
-### Languages & Frameworks  
 <div align="left">
 
-<!-- Laravel -->
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel"/></a>
+  <!-- Bluesky -->
+  <a href="https://bsky.app/profile/probablynic.bsky.social" target="_blank">
+    <img src="https://cdn.simpleicons.org/bluesky/0285FF" height="40" alt="Bluesky"/>
+  </a>
 
-<!-- JavaScript -->
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/></a>
+  <!-- Discord -->
+  <a href="https://discord.gg/probablynic_" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="Discord"/>
+  </a>
 
-<!-- Python -->
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/></a>
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/nic.125414" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="Facebook"/>
+  </a>
 
-<!-- PHP -->
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php"/></a>
+  <!-- Instagram -->
+  <a href="https://instagram.com/probablynic" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/niecos-apostol-503a9a367/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="LinkedIn"/>
+  </a>
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/probablynic_" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000" height="40" alt="X"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:n.apostol.552403@umindanao.edu.ph">
+    <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" alt="Email"/>
+  </a>
 
 </div>
-###
 
