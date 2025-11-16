@@ -1,6 +1,3 @@
-<h2 align="left"> ...</h2>
-
-
 <img align="right" height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif"  />
 
 
