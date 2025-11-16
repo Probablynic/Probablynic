@@ -1,23 +1,21 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%"> 
-<div style="text-align: center; margin-top: 20px;">
-  <!-- NIC badge above cat -->
-  <img src="https://img.shields.io/badge/NIC-black?style=for-the-badge" alt="NIC" style="margin-bottom: 10px;">
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech%20Stack:%20-black?style=for-the-badge" alt="Tech Stack">
+  <img src="https://img.shields.io/badge/Nic%20-black?style=for-the-badge" alt="Nic">
+</p>
 
-  <!-- Cat GIF -->
-  <img src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" alt="Cat" style="height: 180px; max-width: 100%;">
+<p align='center'><img src="https://img.shields.io/badge/Tech%20Stack:%20-black?style=for-the-badge" alt="Tech Stack:"></p>
 </div>
-
-<!-- Tech Stack badges below cat -->
-<div style="text-align: center; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/Laravel-black?style=for-the-badge" alt="Laravel">
-  <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge" alt="MySQL">
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge" alt="Git">
-  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge" alt="HTML5">
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge" alt="Python">
-  <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge" alt="Figma">
-  <img src="https://img.shields.io/badge/Canva-black?style=for-the-badge" alt="Canva">
-  <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge" alt="PHP">
-</div>
+<p align='center'>
+    <img src="https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel" alt='laravel'>
+    <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap" alt='bootstrap'>
+    <img src="https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=mysql" alt='mysql'>
+    <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git" alt='git'>
+    <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" alt='html'>
+    <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" alt='javascript'>
+    <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" alt='python'>
+    <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma" alt='figma'>
+    <img src="https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=canva" alt='canva'>
+    <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php" alt='php'>
+</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%"> 
