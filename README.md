@@ -1,5 +1,7 @@
 <img align="right" height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif"  />
-<!-- Social Icons -->
+
+<div align="left">
+  <!-- Social Icons -->
 <div align="left" style="display: flex; gap: 10px; align-items: center;">
 
   <!-- Bluesky -->
@@ -27,7 +29,5 @@
     <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" alt="Email"/>
   </a>
 </div>
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
   
