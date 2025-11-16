@@ -31,12 +31,10 @@
 
 <!-- Right-side GIF -->
 <img height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
-
+<!--  -->
+<!--  -->
 <!-- Tech Stack -->
 <div align="left" style="margin-bottom: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo" />
 </div>
 
-
-
-make the cat in the right corner of the socials and laravel
