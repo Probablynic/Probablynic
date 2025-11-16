@@ -35,5 +35,5 @@
   </a>
 </div>
 <div align="center">
- <img height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
+ <img height="170" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
 </div>
