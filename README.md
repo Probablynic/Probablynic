@@ -3,12 +3,11 @@
 <div style="position: relative; width: 100%; height: 200px;">
 
   <!-- Cat GIF: top-right corner -->
-  <img src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" 
-       alt="cat" 
-       style="position: absolute; top: 0; right: 0; height: 180px;"/>
+  <img src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" alt="cat" 
+       style="position: center"/>
 
   <!-- Centered Badge -->
-  <p style="text-align: center; line-height: 200px; margin: 0;">
+  <p style="text-align: center;">
     <img src="https://img.shields.io/badge/Hi,%20I'm%20Nic-black?style=for-the-badge" alt="Hi there!, I'm Nic">
   </p>
 
