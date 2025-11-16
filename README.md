@@ -1,6 +1,6 @@
 
 <!-- Social Icons -->
-<div align="left" style="display: flex; gap: 10px; align-items: center;">
+<div align="left" style="display: flex; gap: 5px; align-items: center;">
 
   <!-- Bluesky -->
   <a href="https://bsky.app/profile/probablynic.bsky.social" target="_blank">
