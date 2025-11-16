@@ -2,7 +2,7 @@
 <p align='center'>
   <img src="https://img.shields.io/badge/Hi,%20I'm%20Nic-black?style=for-the-badge" alt="Hi there!, I'm Nic"></p>
 
-<div style="text-align: center; margin-top: 20px;">
+<div style="text-align: center;">
   <img height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" alt="cat" />
 </div>
   
