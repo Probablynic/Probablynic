@@ -2,12 +2,12 @@
 <div align="left" style="margin-bottom: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo" />
 </div>
-<!-- Right-side GIF -->
-<img height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
 <!--  -->
 <!-- Social Icons -->
 <div align="left" style="display: flex; gap: 5px; align-items: center;">
 
+<!-- Right-side GIF -->
+<img height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
   <!-- Bluesky -->
   <a href="https://bsky.app/profile/probablynic.bsky.social" target="_blank">
     <img src="https://cdn.simpleicons.org/bluesky/0285FF" height="40" alt="Bluesky"/>
@@ -32,6 +32,5 @@
   <a href="mailto:n.apostol.552403@umindanao.edu.ph">
     <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" alt="Email"/>
   </a>
-<img height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
 </div>
 
