@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%"> 
-<img height="50" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" alt="cat"/>
+<img align="center" height="100" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif"  />
 <p align='center'><img src="https://img.shields.io/badge/Hi,%20I'm%20Nic-black?style=for-the-badge" alt="Hi there!, I'm Nic"></p>
 </div>
 <h2 align="left">Tech Stack:</h2>
