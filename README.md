@@ -7,7 +7,7 @@
 <img height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
 
 <!-- Social Icons -->
-<div align="right" style="display: flex; gap: 5px; align-items: center;">
+<div align="center" style="display: flex; gap: 5px; align-items: center;">
 
   <!-- Bluesky -->
   <a href="https://bsky.app/profile/probablynic.bsky.social" target="_blank">
