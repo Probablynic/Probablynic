@@ -28,10 +28,8 @@
   </a>
 
 </div>
-
 <!-- Right-side GIF -->
 <img height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
-<!--  -->
 <!--  -->
 <!-- Tech Stack -->
 <div align="left" style="margin-bottom: 10px;">
