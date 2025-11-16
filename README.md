@@ -7,7 +7,9 @@
     <img src="https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=mysql" alt='mysql'>
     <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git" alt='git'>
 </p>
-<img height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
+<div align="center" style="margin-bottom: 10px;">
+ <img height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
+</div>
 <!-- Social Icons -->
 <div align='center' style="display: flex; gap: 5px; align-items: center;">
   <!-- Bluesky -->
