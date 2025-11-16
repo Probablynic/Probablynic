@@ -40,7 +40,7 @@
     <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" alt="Email"/>
   </a>
 </div>
-<div align="center">
+<div align="right">
  <img height="190" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
 </div>
 
