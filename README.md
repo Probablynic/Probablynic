@@ -1,4 +1,11 @@
+<!-- Tech Stack -->
+<div align="left" style="margin-bottom: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo" />
+  
 
+<!-- Right-side GIF -->
+<img align="right" height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
+</div>
 <!-- Social Icons -->
 <div align="left" style="display: flex; gap: 10px; align-items: center;">
 
@@ -26,13 +33,5 @@
   <a href="mailto:n.apostol.552403@umindanao.edu.ph">
     <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" alt="Email"/>
   </a>
-
-
-<!-- Right-side GIF -->
-<img align="right" height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
 </div>
 
-<!-- Tech Stack -->
-<div align="left" style="margin-bottom: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo" />
-</div>
