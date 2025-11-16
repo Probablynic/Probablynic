@@ -43,3 +43,4 @@
 <div align="center">
  <img height="190" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%"> 
