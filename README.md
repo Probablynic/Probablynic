@@ -3,21 +3,14 @@
 <p align='center'>
   <img src="https://img.shields.io/badge/Hi,%20I'm%20Nic-black?style=for-the-badge" alt="Hi there!, I'm Nic"></p>
 
+<!-- Right-side GIF -->
+<img height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
 <p align='center'>
     <img src="https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel" alt='laravel'>
     <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap" alt='bootstrap'>
     <img src="https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=mysql" alt='mysql'>
     <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git" alt='git'>
 </p>
-
-<!-- Tech Stack -->
-<div align="left">
-<!-- Right-side GIF -->
-<img height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
-<!--  -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
-</div>
-
 <!-- Social Icons -->
 <div align="left" style="display: flex; gap: 5px; align-items: center;">
 
