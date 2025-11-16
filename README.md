@@ -1,5 +1,5 @@
 <!-- Tech Stack -->
-<div align="left" style="margin-bottom: 10px;">
+<div align="left" style="margin-bottom: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo" />
 </div>
 <!-- Right-side GIF -->
