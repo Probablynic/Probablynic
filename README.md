@@ -5,6 +5,10 @@
     <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap" alt='bootstrap'>
     <img src="https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=mysql" alt='mysql'>
     <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git" alt='git'>
+    <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" alt='html'>
+    <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" alt='javascript'>
+    <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" alt='python'>
+    <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma" alt='figma'>
 </p>
 <!-- Social Icons -->
 <div align='center' style="display: flex; gap: 5px; align-items: center;">
@@ -37,5 +41,3 @@
  <img height="190" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
 </div>
 
-⎚-⎚ Tech Stack
-HTML  CSS  Sass  JavaScript Python Git  Antd  Figma 
