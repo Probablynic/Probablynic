@@ -1,16 +1,17 @@
 <h2 align="left"> ...</h2>
 
+<!-- Right-side GIF -->
+<img align="right" height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-<div align="left">
+<!-- Tech Stack -->
+<div align="left" style="margin-bottom: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo" />
+</div>
 
- 
+<!-- Social Icons -->
+<div align="left" style="display: flex; gap: 10px; align-items: center;">
 
-###
-
-<img align="right" height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif"  />
- <!-- Bluesky -->
+  <!-- Bluesky -->
   <a href="https://bsky.app/profile/probablynic.bsky.social" target="_blank">
     <img src="https://cdn.simpleicons.org/bluesky/0285FF" height="40" alt="Bluesky"/>
   </a>
@@ -28,16 +29,6 @@
   <!-- Instagram -->
   <a href="https://instagram.com/probablynic" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram"/>
-  </a>
-
-  <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/niecos-apostol-503a9a367/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon_black.svg" height="40" alt="LinkedIn Black"/>
-</a>
-
-  <!-- X (Twitter) -->
-  <a href="https://x.com/probablynic_" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/000000" height="40" alt="X"/>
   </a>
 
   <!-- Email -->
