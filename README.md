@@ -1,14 +1,12 @@
 <!-- Tech Stack -->
 <div align="left" style="margin-bottom: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo" />
-  
-
-<!-- Right-side GIF -->
-<img align="right" height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
 </div>
+
 <!-- Social Icons -->
 <div align="left" style="display: flex; gap: 10px; align-items: center;">
-
+<!-- Right-side GIF -->
+<img align="right" height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
   <!-- Bluesky -->
   <a href="https://bsky.app/profile/probablynic.bsky.social" target="_blank">
     <img src="https://cdn.simpleicons.org/bluesky/0285FF" height="40" alt="Bluesky"/>
