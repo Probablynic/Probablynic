@@ -1,10 +1,10 @@
 <!-- Tech Stack -->
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
-</div>
-
+  
 <!-- Right-side GIF -->
 <img height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
+</div>
 
 <!-- Social Icons -->
 <div align="center" style="display: flex; gap: 5px; align-items: center;">
