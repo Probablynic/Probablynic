@@ -7,9 +7,9 @@
     <img src="https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=mysql" alt='mysql'>
     <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git" alt='git'>
 </p>
+<img height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
 <!-- Social Icons -->
 <div align='center' style="display: flex; gap: 5px; align-items: center;">
-<img height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
   <!-- Bluesky -->
   <a href="https://bsky.app/profile/probablynic.bsky.social" target="_blank">
     <img src="https://cdn.simpleicons.org/bluesky/0285FF" height="40" alt="Bluesky"/>
