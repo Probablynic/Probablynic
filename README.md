@@ -8,7 +8,7 @@
 </div>
 
 <!-- Social Icons -->
-<div align="center" style="display: flex; gap: 5px; align-items: center;">
+<div align="left" style="display: flex; gap: 5px; align-items: center;">
 
   <!-- Bluesky -->
   <a href="https://bsky.app/profile/probablynic.bsky.social" target="_blank">
