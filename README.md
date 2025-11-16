@@ -1,5 +1,12 @@
 <h2 align="left"> ...</h2>
 
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+<div align="left">
+
+ 
+
 ###
 
 <img align="right" height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif"  />
@@ -24,8 +31,8 @@
   </a>
 
   <!-- LinkedIn -->
- <a href="https://www.linkedin.com/in/niecos-apostol-503a9a367/" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/000000" height="40" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/niecos-apostol-503a9a367/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon_black.svg" height="40" alt="LinkedIn Black"/>
 </a>
 
   <!-- X (Twitter) -->
@@ -41,10 +48,3 @@
 </div>
 
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-<div align="left">
-
- 
