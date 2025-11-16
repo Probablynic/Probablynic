@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 <p align='center'><img src="https://img.shields.io/badge/Hi,%20I'm%20Nic-black?style=for-the-badge" alt="Hi there!, I'm Nic"></p>
-<h2 align="center">Tech Stack</h2>
-<p align='left'>
+<h2 align="left">Tech Stack:</h2>
+<p align='center'>
     <img src="https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel" alt='laravel'>
     <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap" alt='bootstrap'>
     <img src="https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=mysql" alt='mysql'>
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma" alt='figma'>
     <img src="https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=canva" alt='canva'>
 </p>
-<h2 align="left">Socials</h2>
+<h2 align="left">Socials:</h2>
 <!-- Social Icons -->
 <div align='center' style="display: flex; gap: 5px; align-items: center;">
   <!-- Bluesky -->
