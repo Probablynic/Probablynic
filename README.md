@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%"> 
 <p align='center'><img src="https://img.shields.io/badge/Tech%20Stack:%20-black?style=for-the-badge" alt="Tech Stack:"></p>
-<div style="text-align: center; margin: 20px 0;">
-  <img height="100" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" alt="cat" />
-</div>
+
+  <img align='right' height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" alt="cat" />
+
 <p align='center'>
     <img src="https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel" alt='laravel'>
     <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap" alt='bootstrap'>
