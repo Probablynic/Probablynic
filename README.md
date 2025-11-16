@@ -1,4 +1,10 @@
-
+<!-- Right-side GIF -->
+<img height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
+<!--  -->
+<!-- Tech Stack -->
+<div align="left" style="margin-bottom: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo" />
+</div>
 <!-- Social Icons -->
 <div align="left" style="display: flex; gap: 5px; align-items: center;">
 
@@ -27,12 +33,5 @@
     <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" alt="Email"/>
   </a>
 
-</div>
-<!-- Right-side GIF -->
-<img height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
-<!--  -->
-<!-- Tech Stack -->
-<div align="left" style="margin-bottom: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo" />
 </div>
 
