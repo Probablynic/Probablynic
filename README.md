@@ -26,12 +26,16 @@
   <a href="mailto:n.apostol.552403@umindanao.edu.ph">
     <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" alt="Email"/>
   </a>
+  
+
+<!-- Right-side GIF -->
+<img align="right" height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
 
 </div>
 
 
 <!-- Right-side GIF -->
-<img align="right" height="100" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
+<img align="right" height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
 
 <!-- Tech Stack -->
 <div align="left" style="margin-bottom: 10px;">
