@@ -2,6 +2,9 @@
 <p align='center'>
   <img src="https://img.shields.io/badge/Hi,%20I'm%20Nic-black?style=for-the-badge" alt="Hi there!, I'm Nic"></p>
 <p align='center'>
+<p align='center'>
+ <img src="https://img.shields.io/badge/A%20Web%20Developer%20from%20Philippines-black?style=for-the-badge">
+</p>
     <img src="https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel" alt='laravel'>
     <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap" alt='bootstrap'>
     <img src="https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=mysql" alt='mysql'>
