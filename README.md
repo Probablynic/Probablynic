@@ -40,6 +40,10 @@
     <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" alt="Email"/>
   </a>
 </div>
+
+
+<p align='center'><img src="https://img.shields.io/badge/and,%20I'm%20-black?style=for-the-badge" alt=""></p>
+
 <div align="center">
  <img height="190" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
 </div>
