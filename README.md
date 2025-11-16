@@ -3,14 +3,7 @@
 ###
 
 <img align="right" height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-<div align="left">
-
-  <!-- Bluesky -->
+ <!-- Bluesky -->
   <a href="https://bsky.app/profile/probablynic.bsky.social" target="_blank">
     <img src="https://cdn.simpleicons.org/bluesky/0285FF" height="40" alt="Bluesky"/>
   </a>
@@ -31,9 +24,9 @@
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/niecos-apostol-503a9a367/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="LinkedIn"/>
-  </a>
+ <a href="https://www.linkedin.com/in/niecos-apostol-503a9a367/" target="_blank">
+  <img src="https://cdn.simpleicons.org/linkedin/000000" height="40" alt="LinkedIn"/>
+</a>
 
   <!-- X (Twitter) -->
   <a href="https://x.com/probablynic_" target="_blank">
@@ -47,3 +40,11 @@
 
 </div>
 
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+<div align="left">
+
+ 
