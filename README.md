@@ -1,7 +1,5 @@
-<img align="right" height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif"  />
 
-<div align="left">
-  <!-- Social Icons -->
+<!-- Social Icons -->
 <div align="left" style="display: flex; gap: 10px; align-items: center;">
 
   <!-- Bluesky -->
@@ -28,6 +26,13 @@
   <a href="mailto:n.apostol.552403@umindanao.edu.ph">
     <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" alt="Email"/>
   </a>
+
+
+<!-- Right-side GIF -->
+<img align="right" height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
 </div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  
+
+<!-- Tech Stack -->
+<div align="left" style="margin-bottom: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo" />
+</div>
