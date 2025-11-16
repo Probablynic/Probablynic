@@ -1,8 +1,10 @@
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 <p align='center'>
   <img src="https://img.shields.io/badge/Hi,%20I'm%20Nic-black?style=for-the-badge" alt="Hi there!, I'm Nic"></p>
-  <img height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
+
+<div style="text-align: center; margin-top: 20px;">
+  <img height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" alt="cat" />
+</div>
   
 <p align='center'>
     <img src="https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel" alt='laravel'>
