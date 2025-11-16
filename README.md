@@ -7,6 +7,9 @@
     <img src="https://cdn.simpleicons.org/bluesky/0285FF" height="40" alt="Bluesky"/>
   </a>
 
+
+<!-- Right-side GIF -->
+<img align="right" height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
   <!-- Discord -->
   <a href="https://discord.gg/probablynic_" target="_blank">
     <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="Discord"/>
@@ -22,9 +25,6 @@
     <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram"/>
   </a>
 
-
-<!-- Right-side GIF -->
-<img align="right" height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" />
   <!-- Email -->
   <a href="mailto:n.apostol.552403@umindanao.edu.ph">
     <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" alt="Email"/>
