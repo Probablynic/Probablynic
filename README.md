@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%"> 
 <img align="right" height="180" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif"  />
-<p align='center'><img src="https://img.shields.io/badge/Tech%20Stack:%20-black?style=for-the-badge" alt="Tech Stack:"></p>
+<p align='center'><img src="https://img.shields.io/badge/Tech%20Stack:%20-black?style=for-the-badge" alt="Tech Stack:">align='right'><img src="https://img.shields.io/badge/Nic%20-black?style=for-the-badge" alt="Nic"></p>
 </div>
 <p align='center'>
     <img src="https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel" alt='laravel'>
