@@ -2,6 +2,7 @@
 <img align="right" height="200" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif"  />
 <img src="https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel" alt='laravel'>
 <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" alt="css">
+<img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap" alt='bootstrap'>
 </div>
 <!-- <p align='center'>
 <img src="https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel" alt='laravel'>
