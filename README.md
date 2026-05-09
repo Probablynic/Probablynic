@@ -5,6 +5,7 @@
 <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap" alt='bootstrap'>
 <img src="https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=mysql" alt='mysql'>
 <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git" alt='git'>
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" alt='javascript'>
 </div>
 <!-- <p align='center'>
 <img src="https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel" alt='laravel'>
