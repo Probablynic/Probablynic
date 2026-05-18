@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=canva" alt='canva'>
 <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php" alt='php'> -->
 </div>
+<!-- <p align='center'> -->
 <p align='center'>
 <img src="https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel" alt='laravel'>
 <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" alt="css">
