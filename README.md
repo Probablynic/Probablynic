@@ -13,6 +13,13 @@
 </div>
 <!-- <p align='center'> -->
 <p align='center'>
+  <img src="https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel" alt='laravel'>
+    <img src="https://img.shields.io/badge/Livewire-black?style=for-the-badge&logo=livewire" alt='livewire'>
+    <img src="https://img.shields.io/badge/VueJS-black?style=for-the-badge&logo=vue.js" alt='vue.js'>
+    <img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss" alt='tailwindcss'>
+    <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap" alt='bootstrap'>
+    <img src="https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=mysql" alt='mysql'>
+    <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git" alt='git'>
 <img src="https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel" alt='laravel'>
 <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" alt="css">
   <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
