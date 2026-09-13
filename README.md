@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
-<img align="right" height="200" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif"  />
+<img align="right" height="220" src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif"  />
 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="laravel logo" />
