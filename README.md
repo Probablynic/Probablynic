@@ -52,7 +52,7 @@
 
 ###
 
-<p align='center'>
+<!-- <p align='center'>
 <img src="https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel" alt='laravel'>
 <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" alt="css">
 <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
@@ -68,5 +68,5 @@
 <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php" alt='php'>
 
 <img src="https://img.shields.io/badge/Para%20asa%20pud-black?style=for-the-badge" alt="Para asa pud">
-</p>
+</p> -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
