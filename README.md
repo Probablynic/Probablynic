@@ -15,6 +15,7 @@
 <p align='center'>
 <img src="https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel" alt='laravel'>
 <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" alt="css">
+  <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
 <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap" alt='bootstrap'>
 <img src="https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=mysql" alt='mysql'>
 <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git" alt='git'>
@@ -25,7 +26,7 @@
 <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma" alt='figma'>
 <img src="https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=canva" alt='canva'>
 <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php" alt='php'>
-<img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+
 <img src="https://img.shields.io/badge/Para%20asa%20pud-black?style=for-the-badge" alt="Para asa pud">
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%"> 
