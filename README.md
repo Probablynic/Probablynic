@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git" alt='git'>
 <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" alt='html'>
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" alt='javascript'>
+  
 <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" alt='python'>
 <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma" alt='figma'>
 <img src="https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=canva" alt='canva'>
